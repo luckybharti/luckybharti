@@ -1,2 +1,2 @@
-This is my first version 1
+This is my previous version
 I want to go into commit 2.
